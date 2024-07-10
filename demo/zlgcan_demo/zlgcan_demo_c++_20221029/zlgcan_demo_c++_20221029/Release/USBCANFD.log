@@ -1,0 +1,4 @@
+[2022-10-29 10:47:23.800] ================= Logging =================
+[2022-10-29 10:47:23.800] [ERR] DeviceMgr::UpdateConnectDevice devPath:\\?\usb#vid_3068&pid_0009#6aabfbe2615e041900f5#{6f839942-9cd9-4722-a4d7-0e150cee4963} CreateFile Failed Err:5
+[2022-10-29 10:48:51.886] [ERR] DeviceMgr::UpdateConnectDevice devPath:\\?\usb#vid_3068&pid_0009#6b50198320690fa4e890#{6f839942-9cd9-4722-a4d7-0e150cee4963} CreateFile Failed Err:5
+[2022-10-29 10:51:05.826] [ERR] DeviceMgr::UpdateConnectDevice devPath:\\?\usb#vid_3068&pid_0009#6aabfbe2615e041900f5#{6f839942-9cd9-4722-a4d7-0e150cee4963} CreateFile Failed Err:5

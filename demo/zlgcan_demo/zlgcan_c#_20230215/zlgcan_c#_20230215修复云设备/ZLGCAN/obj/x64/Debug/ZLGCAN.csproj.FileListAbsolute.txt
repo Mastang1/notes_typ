@@ -1,0 +1,9 @@
+C:\Users\shell\Desktop\AAA桌面\zlgcan_demo\ZLGCAN上位机例程\c#_usbcanfd_x64_硬件定时发送\ZLGCAN\bin\x64\Debug\ZLGCAN.exe.config
+C:\Users\shell\Desktop\AAA桌面\zlgcan_demo\ZLGCAN上位机例程\c#_usbcanfd_x64_硬件定时发送\ZLGCAN\bin\x64\Debug\ZLGCAN.exe
+C:\Users\shell\Desktop\AAA桌面\zlgcan_demo\ZLGCAN上位机例程\c#_usbcanfd_x64_硬件定时发送\ZLGCAN\bin\x64\Debug\ZLGCAN.pdb
+C:\Users\shell\Desktop\AAA桌面\zlgcan_demo\ZLGCAN上位机例程\c#_usbcanfd_x64_硬件定时发送\ZLGCAN\obj\x64\Debug\ZLGCANDemo.CANForm.resources
+C:\Users\shell\Desktop\AAA桌面\zlgcan_demo\ZLGCAN上位机例程\c#_usbcanfd_x64_硬件定时发送\ZLGCAN\obj\x64\Debug\ZLGCAN.Properties.Resources.resources
+C:\Users\shell\Desktop\AAA桌面\zlgcan_demo\ZLGCAN上位机例程\c#_usbcanfd_x64_硬件定时发送\ZLGCAN\obj\x64\Debug\ZLGCANDemo.ZCLOUD.resources
+C:\Users\shell\Desktop\AAA桌面\zlgcan_demo\ZLGCAN上位机例程\c#_usbcanfd_x64_硬件定时发送\ZLGCAN\obj\x64\Debug\ZLGCAN.csproj.GenerateResource.Cache
+C:\Users\shell\Desktop\AAA桌面\zlgcan_demo\ZLGCAN上位机例程\c#_usbcanfd_x64_硬件定时发送\ZLGCAN\obj\x64\Debug\ZLGCAN.exe
+C:\Users\shell\Desktop\AAA桌面\zlgcan_demo\ZLGCAN上位机例程\c#_usbcanfd_x64_硬件定时发送\ZLGCAN\obj\x64\Debug\ZLGCAN.pdb
